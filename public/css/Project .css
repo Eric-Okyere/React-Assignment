@@ -1,0 +1,118 @@
+.navbar{
+    width: 180vh;
+    background: linear-gradient(135deg, orange 60%, cyan);
+}
+
+img{
+    height: 10vh;
+    width: 10vh;
+    border-radius: 5vh;
+}
+.carousel{
+    width: 200vh;
+    margin-top: 10px;
+    
+}
+.w-100{
+    height: 100vh;
+}
+
+
+
+.btn{
+    background-color: blue;
+    color: white;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+
+.nav-link{
+        background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+        border-radius: 5vh;
+        margin-right: 15px;
+       }
+.mr-sm-2{
+    padding-left: 20vh;
+}
+.form-inline{
+    padding-left: 57vh;
+}
+
+
+.cont2{
+    height: 80vh;
+   
+    display: flex;
+}
+.cont3{
+    display: flex;
+    justify-content: center;
+    padding-top: 25vh;
+}
+h2{
+    color: aqua;
+}
+
+.Za{
+    height: 40vh;
+    width: 40vh;
+}
+.wh{
+    padding-top: 25vh;
+   margin-left: 40vh;
+   font-style: italic;
+}
+
+
+
+.plan{
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+}
+.pl{
+    padding-left: 60vh;
+}
+
+.sub1{
+    background-color: aqua;
+  
+}
+.sub2{
+    background-color: gray;
+   
+}
+.for{
+    height: 70vh;
+    margin: 5px;
+}
+h1, h3{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+.footer{
+    background-color: aqua;
+    padding-top: 15px;
+    display: flex;
+    height: fit-content;
+    width: 180vh;
+    margin-top: 10px;
+   
+}
+.fa-brands{
+    height: 20vh;
+    width: 20vh;
+    padding-top: 5vh;
+    font-size: xx-large;
+    
+}
+
+.fay{
+    padding-left: 35vh;
+}
+
+.fot{
+    font-style: italic;
+    padding-left: 20vh;
+}
